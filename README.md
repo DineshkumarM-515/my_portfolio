@@ -19,7 +19,7 @@ A modern, responsive personal portfolio showcasing my projects, technical skills
 
 🔗 **Portfolio Website**
 
-> https://YOUR_USERNAME.github.io/
+>https://dineshkumarm-515.github.io/my_portfolio/
 
 ---
 
